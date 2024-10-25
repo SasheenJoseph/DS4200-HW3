@@ -1,0 +1,3 @@
+﻿https://sasheenjoseph.github.io/DS4200-HW3/index.html
+The main page features a deep background color (#121212) with the "Marker Felt" font for all text elements and the headings (h1, h2) and paragraph text are centered. The layout on the main page organizes the profile picture and bio section, with images styled to maintain a maximum width along with the border-radius (10px).
+The playlists page continues the same background color, but now utilizes a three-column grid layout that presents each playlist side by side and had a accent background color (#2a2a2a). Images associated with each playlist are styled with a 1:1 aspect ratio and rounded corners.
